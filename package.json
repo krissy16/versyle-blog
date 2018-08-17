@@ -1,0 +1,14 @@
+{
+  "name": "versyle_blog",
+  "version": "1.0.0",
+  "description": "A blog for Versyle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krissandra Charmant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
