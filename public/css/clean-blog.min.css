@@ -12,7 +12,7 @@ p a{
 }
 h1,h2,h3,h4,h5,h6{
 	font-weight:800;
-	font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-family:'Great Vibes','Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 a{
 	color:#212529;
@@ -61,8 +61,10 @@ img::-moz-selection{
 	background:0 0;
 }
 #mainNav{
-	position:absolute;border-bottom:1px solid #e9ecef;
-	background-color:#fff;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	position:absolute;
+	border-bottom:1px solid #e9ecef;
+	background-color:#fff;
+	font-family:Lora,'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 #mainNav .navbar-brand{
 	font-weight:800;
@@ -72,14 +74,12 @@ img::-moz-selection{
 	font-size:12px;
 	font-weight:800;
 	padding:13px;
-	text-transform:uppercase;
 	color:#343a40;
 }
 #mainNav .navbar-nav>li.nav-item>a{
 	font-size:12px;
 	font-weight:800;
 	letter-spacing:1px;
-	text-transform:uppercase;
 }
 @media only screen and (min-width:992px){
 	#mainNav{
